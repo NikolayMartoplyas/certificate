@@ -4,4 +4,4 @@
 
 ![сертефикат](JAVA.jpg)
 
-![сертефикат](aunomated testing.pdf)
+![сертефикат](aunomated_testing_page-0001.jpg)
