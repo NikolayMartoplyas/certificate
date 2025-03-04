@@ -8,3 +8,6 @@
 
 
 ![сертефикат](JS_page-0001.jpg)
+
+![сертефикат](Web_page-0001.jpg)
+![сертефикат](testMobile_page-0001.jpg)
